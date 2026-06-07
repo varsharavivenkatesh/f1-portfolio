@@ -96,7 +96,7 @@ export default function Footer() {
           {/* Bottom section - Copyright & tagline */}
           <div className="text-center">
             <p className="text-gray-500 text-sm">
-              © 2025 Varsha Ravivenkatesh. All rights reserved.
+              © 2026 Varsha Ravivenkatesh. All rights reserved.
             </p>
           </div>
         </div>
